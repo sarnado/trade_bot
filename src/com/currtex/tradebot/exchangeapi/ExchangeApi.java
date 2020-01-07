@@ -26,8 +26,8 @@ public class ExchangeApi {
 
     private String login(){
 
-        String botLogin = "superBotFather";
-        String botPass = "11471147aaA!";
+        String botLogin = "login";
+        String botPass = "password";
         String command = "auth/login?name="+ botLogin +"&password="+ botPass;
 
         request.setCommand(command);

@@ -13,7 +13,7 @@ public class CmcRequestCreator implements RequestApi {
 
 
 
-    private static String apiKey = "bd294e59-62da-4875-8c5c-b52eb4c26788";
+    private static String apiKey = "API-KEY-COINMARKET";
     private String authToken = "";
 
     @Override
